@@ -1,0 +1,392 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Divine fire-works Or, Some sparkles from the spirit of burning in this dead letter. Hinting what the almighty Emanuel is doing in these wipping times. And in this His day which burns as an oven. In Abhiam. Can any good come out of -? Come and see.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81568</idno>
+            <idno type="STC">Wing D1721</idno>
+            <idno type="STC">Thomason 669.f.20[45]</idno>
+            <idno type="STC">ESTC R211876</idno>
+            <idno type="EEBO-CITATION">99870553</idno>
+            <idno type="PROQUEST">99870553</idno>
+            <idno type="VID">163462</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81568)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163462)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 247:669f20[45])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Divine fire-works Or, Some sparkles from the spirit of burning in this dead letter. Hinting what the almighty Emanuel is doing in these wipping times. And in this His day which burns as an oven. In Abhiam. Can any good come out of -? Come and see.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Jan. 20 an. BLVI BLVII [1656 1657, i.e 1657]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse -- "The lyon, who a long time shaped,".</note>
+                  <note>In four columns with a vignette of a lion carrying a flaming sword.</note>
+                  <note>Dated at end: Jan. 1 &amp; 3. An. 56. 57.</note>
+                  <note>Annotation on Thomason copy: "Jan. 21 165".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>God --  Wrath --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:163462:1" rendition="simple:additions"/>
+            <head>DIVINE FIRE-WORKS. <hi>OR,</hi> Some Sparkles from the Spirit of BURNING in this dead Letter. HINTING What the Almighty Emanuel is doing in theſe WIPPING Times. AND In this HIS day which burns as an OVEN. IN <hi>ABHIAM.</hi>
+            </head>
+            <epigraph>
+               <q>Can any good come out of—? Come and ſee.</q>
+            </epigraph>
+            <figure>
+               <figDesc>crowned lion with flaming sword</figDesc>
+            </figure>
+            <p>THe LYON, who a long time ſleeped,</p>
+            <p>Is (by the <hi>Conſuming</hi> Fire) out of his Den fired. Being rouzed,</p>
+            <p>He roared,</p>
+            <p>The Beaſts of the Forreſt trembled. <note n="*" place="margin">
+                  <hi>This was the Lord knows where the</hi> 29th. <hi>of the laſt mon. An. BLVI</hi> &amp; <hi>beſides ſpectators and auditors.</hi>
+               </note>
+            </p>
+            <p>Were any of the children frighted?</p>
+            <p>Have any of them ſtumbled?</p>
+            <p>Sure I am the Heathen raged.</p>
+            <p>Have any of the PEOPLE (alſo) a vain thing imagined?</p>
+            <p>The Hell-Hounds yelled.</p>
+            <p>The Dogs with open mouth gaped, and greatly <note place="margin">By CRAVO<g ref="char:EOLhyphen"/>VR witneſſed.</note> barked.</p>
+            <p>At length</p>
+            <p>The men of <hi>Sodom</hi> were (ſtrangely) with blindneſs ſmitten.</p>
+            <p>The Dogs mouths which were ſo wide open, were (with a pure and heavenly cunning) ſtopped:</p>
+            <p>They alſo fawned, and their tails wagged, <hi>&amp;c.</hi>
+            </p>
+            <p>It's the earneſt of good things to come.</p>
+            <p>And thus ſaith our Almighty Emanuel,</p>
+            <p>
+               <hi>My wayes are unſearchable, and my Iudgements paſt finding out, &amp;c.</hi>
+            </p>
+            <p>O the heights! and depths! and lengths! and breadths! how unſearchable? <hi>&amp;c.</hi>
+            </p>
+            <p>The reſt is torn out,</p>
+            <p>Yet it's written</p>
+            <p>From</p>
+            <p>My joyous Fiery-fornace, where I am in the Spirit on the LORDS DAY.</p>
+            <p>Which burns as an Oven,</p>
+            <p>And where I am joyfully dwelling</p>
+            <p>With everlaſting <hi>Burnings.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell rows="2">This firſt day of the <hi>New-Year,</hi>
+                     </cell>
+                     <cell>
+                        <hi>BLVI.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>BLVII.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <hi>A. B.</hi>
+            </p>
+            <p>London printed in the beginning of the year, BLVII.</p>
+            <p>Felt, heard, and underſtood, manifeſted and</p>
+            <p>Revealed at the end of—An.—BLVI.</p>
+            <l>Let none but Angels ſing this round,</l>
+            <l>The end hath the <hi>beginning</hi> found.</l>
+            <p>And what and if one riſen from the dead, <hi>&amp;c.</hi>
+            </p>
+            <p>And what and if a fleepy Lyon out of his Den fired, <hi>&amp;c.</hi>
+            </p>
+            <p>Should tell you the truth? could ye in any wiſe believe?</p>
+            <p>
+               <hi>Hoc accidit dum vile ſuit</hi>
+            </p>
+            <div n="2" type="chapter">
+               <head>CHAP. II. The ſight, reception, and enjoyment of the TRUE BLV (which far ſurpaſſeth the Philoſophers Stone, &amp;c. Hinted at.</head>
+               <p>
+                  <hi>—Hoc accidet dum vile fui</hi>
+               </p>
+               <p>For wo is me, I am undone, I have ſeen the Lord the King.</p>
+               <p>I am undone. I am a fool.</p>
+               <p>Suffer fools gladiy; if you may, if you can.</p>
+               <p>If I am a fool, it is for your ſakes.</p>
+               <p>I am beſides my ſelf; and if I am—it is to God</p>
+               <p>I am not—for God hath took me.</p>
+               <p>I am undone, yet gloriouſly and joyfully undone.</p>
+               <p>I have ſeen the Lord. THE King;</p>
+               <p>Who appeared unto me</p>
+               <p>On <hi>[Innocents Day]</hi> the 28 of the laſt moneth.</p>
+               <p>He ſpake to me and with me, (as a friend ſpeaketh to his friend) of things unſpeakable and unutterable.</p>
+               <p>By <note n="*" place="margin">
+                     <hi>viz</hi> 28 <hi>Jan.</hi> from ten at night til about 3 i'th' morning.</note> night (on my bed alſo) he whom my ſoul loveth, ſet before mine eye, both mental and corporal.</p>
+               <p>BLV</p>
+               <p>Exceeding glorious, moſt tranſparent and moſt tranſplendent.</p>
+               <p>And what I am now about (with fear &amp; trembling, as alſo with high rejoycing) I can preſent to you, no more, no otherwiſe, then as part of the black, dark ſhadow of a man, againſt a ſun-ſhine wall, &amp;c.</p>
+               <p>At this ſtrange, glorious, and unexpected ſight,</p>
+               <p>The Spirit of Burning (by which the filth of the daughter of Sion is purged) did ſo ſurround me, and took ſuch real poſſeſſion of me,</p>
+               <p>That it not onely waxed hot within me;</p>
+               <p>But alſo (on a ſudden) ſet my body on ſuch a flame; that (at a diſtance) it would warm the ſtander by, as if they were warm<g ref="char:EOLhyphen"/>ing their hands at a burning fire, &amp;c.</p>
+               <p>Then was I raiſed to ſit up in my bed (in my ſhirt) ſmoaking like a furnace.</p>
+               <p>And with glorious holy fear and trem<g ref="char:EOLhyphen"/>bling, I bowed the Knees of my ſoul; as alſo my body</p>
+               <p>With all awful reverence before the dread<g ref="char:EOLhyphen"/>ful, (yet to his friends) the glorious preſence of the God of <hi>Abraham,</hi> the God of <hi>Iſaac,</hi> the God of <hi>Jacob,</hi>
+               </p>
+               <p>With my hands wringing, the Spirit groaning,</p>
+               <p>And at length ſaying,</p>
+               <p>I beſeech thee, I beſeech thee, I beſeech thee</p>
+               <p>Tell me what is this?</p>
+               <p>Then HE ſpake;</p>
+               <p>Whoſe voice once ſhook the earth; But now not onely the earth, but the heavens alſo.</p>
+               <p>Saying,</p>
+               <p>Fear not, it is I BLVI.</p>
+               <p>Whereupon the Spirit within me (with exceeding joy) exceedingly groaned; &amp; with a loud voice, out-ſounded</p>
+               <p>O the BLV! O the BLV! O the BLV!</p>
+               <p>And the worm, and no man ſaid, what BLV;</p>
+               <p>Lord</p>
+               <p>He, as a loving Father, gave me (as it were) a box 'ith' ear, ſaying,</p>
+               <p>Doſt not remember, when thou was't a</p>
+               <p>School-boy, thou heard'ſt this ſaying,</p>
+               <p>TRUE BIV wil never ſtain, will never fail, <hi>White</hi> is the ſignal of Innocency. BLV, of Truth.—</p>
+               <p>And I that am incomprehenſible, without colour, inviſible,</p>
+               <p>Yet in (an unfathomable ſenſe) <note n="*" place="margin">as viſible,</note>
+               </p>
+               <p>And as I may, can &amp; wil ſo ſay; <note n="*" place="margin">
+                     <hi>Heb.</hi> 11. 27</note>
+               </p>
+               <p>I both have, can, wil, &amp; do ap<g ref="char:EOLhyphen"/>pear in my COULORS, at my pleaſure.</p>
+               <p>The White—as Innocency, the BLV—as trueth.</p>
+               <p>TRUE BLVI, True BLVI IAM.</p>
+               <p>And though I am in heaven, earth, &amp; hel, &amp;c</p>
+               <p>Yet earth, hel &amp; heaven, yea the heaven of heavens is not able to contain me, &amp;c.</p>
+               <p>Now have I in an unſpeakable eminent way bowed the heavens, &amp; am come down upon the earth. And will ſhew my ſelf,</p>
+               <p>As in my Coulors,—&amp;c.</p>
+               <p>Whereupon he drew a ſharp two edged flaming ſword, &amp;c.</p>
+               <p>(Another manner of Sword then that hee wore on Mount Sina)</p>
+               <p>Saying,</p>
+               <p>Bear thou the typical teſtimony thereof.</p>
+               <p>And in a dark, low, beggarly ſhadow, wear BLV, With this Superſcription,</p>
+               <l>TRUE BLVI will never fail,</l>
+               <l>TRUTH is great, and will prevail.</l>
+               <p>And (not conferring with fleſh and blood) I was obedient to the heavenly command<g ref="char:EOLhyphen"/>ment.</p>
+               <p>Whereupon with an exceeding holy fear and trembling, fiilled brim-ful [alſo] of joy and rejoycing,</p>
+               <p>I bowed down hoth ſoul and body, before the God of <hi>Abraham, Iſaac,</hi> and <hi>Jacob.</hi>
+               </p>
+               <p>And the Spirit within me ſounded forth, O eternal ſpirit of TRUTH, which wil ne<g ref="char:EOLhyphen"/>ver fail.</p>
+               <p>What am I, a worm, and no man?<hi>——A</hi> Nazarite (By the Lord of Hoſts, which dwelleth in Mount Sion) made blac<g ref="char:EOLhyphen"/>ker then a cole—</p>
+               <p>—Not known in the ſtreets—</p>
+               <p>Known at home Only.</p>
+               <p>Fear thou not, I am thine, &amp; I am with thee and a wal of fire round about thee.</p>
+               <p>I will alſo tell thee what I am doing in <hi>Theſe whipping Times,</hi>
+               </p>
+               <p>And in this my Day</p>
+               <p>Which burns as an <hi>OVEN.</hi>
+               </p>
+               <p>
+                  <hi>Hark!</hi>
+               </p>
+            </div>
+            <div n="3" type="chapter">
+               <head>
+                  <hi>Chap.</hi> III. <hi>What the</hi> Lord <hi>is doing theſe whipping Times? &amp;c.</hi>
+               </head>
+               <p>
+                  <hi>Hark!</hi>
+               </p>
+               <p>The noiſe of a whip, on the top of the Mountains,</p>
+               <p>Whip and burn, whip and burn, whip &amp; burn.</p>
+               <p>I, THE conſuming fire in An. BLVII—have bowed the heavens, &amp; am come down, I am am come to baptize with the Holy Ghoſt, and with <note n="*" place="margin">Some have felt it with a witneſs.</note> 
+                  <hi>Fire.</hi>
+               </p>
+               <p>My Fan is in my hand, and I will <hi>throughly purge</hi> my <hi>Floor,</hi> &amp;c.</p>
+               <p>But,</p>
+               <p>The chaff I will burn up, with unquench<g ref="char:EOLhyphen"/>able Fire.</p>
+               <p>O chaff, chaff, hear the Word of the Lord.</p>
+               <p>To the unquenchable fire thou muſt, it is thy doom.</p>
+               <p>It's a whipping Time. The day burns as an Oven.</p>
+               <p>Wherein (II) all the proud, and all that do wickedly ſhall be ſtubble. And the day that cometh, and [NOW is] ſhall BURN them up.</p>
+               <p>It ſhal leave them neither root nor branch, Mal. 4. 1. Learn what that meaneth, Whom it hitteth, it hitteth.</p>
+               <p>It's a whipping time.</p>
+               <p>And he that is TRUTH, and no Lye, hath bowed the heavens, and is come down. (III TO whip the Thieves out of his own <note n="*" place="margin">
+                     <hi>Ye are the Temple of the li<g ref="char:EOLhyphen"/>ving God, as God hath ſaid,</hi> I <hi>will dwell in them, &amp;c.</hi> 1 <hi>Cor.</hi> 6. 2 <hi>Cor.</hi> 6. 10.</note> Temple. And amongſt all the rabble that are there, he wil whip out that old thief, that foul &amp; unclean ſpirit that ſaith, Stand back, I am holier then thou, &amp;c.</p>
+               <p>That Thief alſo ſhall not ſcape his Laſh, who ſaith, Lo <hi>here, or lo there,</hi> &amp;c,</p>
+               <p>Theſe are whipping time; and</p>
+               <p>The day <hi>Burns</hi> as an Oven.</p>
+               <p>And thus ſaith my God,</p>
+               <p>Who (to my exceeding, exceeding joy) is a conſuming Fire, I have bowed the hea<g ref="char:EOLhyphen"/>vens, and am come down.</p>
+               <p n="4">(IV) To try every mans work ſo as by <hi>Fire;</hi> and this conſuming fire ſhall enter in<g ref="char:EOLhyphen"/>to the marrow and the bones, and ſearch the heart and the reins:</p>
+               <p>And ſhall go on and do its work, as it hath begun:</p>
+               <p>And turn the IN-ſide outwards.</p>
+               <p>To the eternal fame of ſome; and to the everlaſting ſhame of others.</p>
+               <p>Let the later expect what is upon them coming with a vengeance.</p>
+               <p>The day burns like an Oven.</p>
+               <p>For (V) He hath bowed the Heavens—and is coming down in flaming Fire,</p>
+               <p>To render vengeance to thoſe that know him not; eſpecially to thoſe who talk much of him, yet call him, <hi>Beelzehub, &amp;c. &amp;c. &amp;c.</hi>
+               </p>
+               <p>Theſe are whipping times.</p>
+               <p>For [VI) he hath bowed the heavens, and is come down to whip</p>
+               <p>Theſe froward fooliſh children who call their Father Rogue, if he appear in any o<g ref="char:EOLhyphen"/>ther garb then what they have uſually ſeen him in, &amp;c.</p>
+               <p>And he will never give over whipping them, till they give over ſaying to him, What doſt thou?</p>
+               <p>Till they give over Injoyning him his way, &amp;c.</p>
+               <p>And their daring to be ſo arrogantly foo<g ref="char:EOLhyphen"/>liſh, as</p>
+               <p>To JUDGE the things THEY know not—</p>
+               <p>He that hath an ear to hear let him hear.</p>
+               <p>And AL ſhall feel</p>
+               <p>It is a whipping time.</p>
+               <p>For (VII) He hath bowed the Heavens, and is come down to whip and burn, whip and burn.—</p>
+               <p>None ſhall eſcape his laſh,</p>
+               <p>No not his dearly beloved Daughter of <hi>Sion.</hi>
+               </p>
+               <p>Among many other things he will ſound<g ref="char:EOLhyphen"/>ly ſcourge her for her haughtineſs, and outſtretched-neckedneſs.</p>
+               <p>For holding her neck ſo high.</p>
+               <p>For her curſed Scorn, Helliſh Pride and niceneſs.</p>
+               <p>For not remembring her Siſter <hi>Sodom</hi> in the day of her pride, <hi>&amp;c.</hi>
+               </p>
+               <p>And the roaring ramping-Lyon, with the ſharp two-edged Sword, wil run her through and through.</p>
+               <p>And with unquenchable fire</p>
+               <p>Will burn up the bravery of their tinkling Ornaments.</p>
+               <p>The bracelets, <hi>&amp;c.</hi> The changeable Suits of apparel, <hi>&amp;c.</hi>
+               </p>
+               <p>The Glaſſes, and fine Linnen. The Hoods and the Vails, <hi>&amp;c.</hi>
+               </p>
+               <p>And inſtead of ſweet ſmelling there ſhall be a ſtink; and BURNING inſtead of Beauty.</p>
+               <p>And becauſe ſhe turneth away her eyes from her own Fleſh, yea, and denies her own Spirit and Life;</p>
+               <p>Yea, her Father that begot her; and</p>
+               <p>Her eldeſt Brother, the Heir of all,</p>
+               <p>For this her haughtineſs, and ſtretch<g ref="char:EOLhyphen"/>ed-neckedneſs, ſhe ſhall not onely be whipt, but alſo the crown of the head of the Daughter of <hi>Sion</hi> ſhall be ſmit<g ref="char:EOLhyphen"/>ten with a Scab. And</p>
+               <p>The Lord wil diſcover her SECRET parts.</p>
+               <p>And this ſhall be done to the green Tree.</p>
+               <p>And if this be done to the green Tree,</p>
+               <p n="7">[VII] What ſhall be done to the Dry Tree?</p>
+               <p>At preſent I will not tell them.</p>
+               <p>They ſhall feel with a witneſs, <hi>&amp;c.</hi>
+               </p>
+               <p>And Ile only here inſert a Prophecie, which ſparkled forth from the Spirit of Prophecy, before theſe whipping times were thought on or expected.</p>
+               <p>The Prophecy.</p>
+               <p>Sith that their wayes they do not mend,</p>
+               <p>Ile finde a Whip to ſcourge them by;</p>
+               <p>And with my Rod Ile make them bend, and ſo divide them ſuddainly.</p>
+               <p>This is but the beginning of ſorrows</p>
+               <p>And this that is now (in this dead Letter hinted) is but the bare contents of ſome of thoſe many things which the conſuming fire is about to do theſe whipping times; and in this day which BURNS as an Oven; and where in tri<g ref="char:EOLhyphen"/>umphs and joy I now live.</p>
+               <p>You ſhall have it more at large one way or other, one time or other.</p>
+            </div>
+            <trailer>The End</trailer>
+            <trailer>Is not yet.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for the Author,
+<table>
+                  <row>
+                     <cell rows="2">
+                        <hi>Jan.</hi> 20. An.</cell>
+                     <cell>BLVI</cell>
+                  </row>
+                  <row>
+                     <cell>BLVII.</cell>
+                  </row>
+               </table>
+               <table>
+                  <row>
+                     <cell rows="2">Written <hi>Jan.</hi> 1. &amp; 3. <hi>An.</hi>
+                     </cell>
+                     <cell>56.</cell>
+                  </row>
+                  <row>
+                     <cell>57.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>True BLVI. will never fail;</p>
+            <p>TRUTH is great, &amp; will pre<gap reason="illegible: missing" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
